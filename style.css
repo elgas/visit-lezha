@@ -1,0 +1,74 @@
+/* White space for all content */
+* {
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+#navbar{
+    font-weight: bolder;
+}
+
+#welcome-text{
+    font-size: medium;
+    font-weight: bold;
+    padding-top: 25px;
+    padding-bottom: 0;
+}
+
+a{
+  color: black;
+}
+
+/* h3 headings for each section for better readibility */
+h3{
+    margin-top: 25px;
+    padding-bottom: 0;
+}
+
+
+/* Footer */
+footer{
+  padding-top: 100px;
+  padding-left: 1%;
+  font-weight: bolder;
+}
+
+footer span {
+  float: right;
+  color: gray;
+  padding-left: 50px;
+}
+
+/* Media quires */
+
+/* Small devices (landscape phones, 576px and up) */
+@media screen and (min-width: 576px) and (max-width: 767.98px) {
+    img{
+        max-height: 118px;
+        width: 100%;
+    } 
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) and (max-width: 991.98px) {
+    img{
+        max-height: 130px;
+        width: 100%;
+    } 
+}
+
+/* Large devices (desktops, 992px and up) */
+@media screen and (min-width: 992px) and (max-width: 1199.98px) {
+    img{
+        max-height: 200px;
+        width: 100%;
+    } 
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media screen and (min-width: 1200px) {
+    img {
+        max-height: 270px;
+    }
+}
+
