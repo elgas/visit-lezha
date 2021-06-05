@@ -1,5 +1,5 @@
 # Visit Lezha
-Live projrct here : [Visit Lezha](https://elgas.github.io/visit-lezha)
+Live project here : [Visit Lezha](https://elgas.github.io/visit-lezha)
 
 This is a website presenting a simple and effective guide for the main places and activities for a tourist 
 that wants to vitit Lezha in Albania.
@@ -33,7 +33,7 @@ that wants to vitit Lezha in Albania.
 
 ## Wireframes
     
-    ![Wireframe](balsamiq.png)
+![Wireframe](/workspace/visit-lezha/balsamiq.png)
 
 ## Features
     * Responsive on all device sizes 
@@ -48,20 +48,20 @@ that wants to vitit Lezha in Albania.
     * CSS3
 
 ### Frameworks Used
-    * [Bootstrap 4.4.1] (https://getbootstrap.com/docs/4.1/getting-started/introduction/) is
+    * [Bootstrap 4.4.1](https://getbootstrap.com/docs/4.1/getting-started/introduction) is
      used to help with the responsiveness and styling of the features.
-    * [Font Awesome](https://fontawesome.com/) is used on the website to add icons for aesthetic 
+    * [Font Awesome](https://fontawesome.com) is used on the website to add icons for aesthetic 
     and UX purposes.
-    * [Balsamiq](https://balsamiq.com/) is used to create the wireframes during the design process.
+    * [Balsamiq](https://balsamiq.com) is used to create the wireframes during the design process.
     * [GitHub](https://github.com): GitHub is used to store the projects code after being pushed 
     from Gitpod.
 
 ## Testing
 
     * Validator testing
-     - The W3C HTML Validator test showed no errors, but one suggestion of using CSS instead of the <iframe> element in HTML. [See here] (https://validator.w3.org/nu/?doc=https%3A%2F%2Felgas.github.io%2Fvisit-lezha%2F) 
+     - The W3C HTML Validator test showed no errors, but one suggestion of using CSS instead of the <iframe> element in HTML. [See here](https://validator.w3.org/nu/?doc=https%3A%2F%2Felgas.github.io%2Fvisit-lezha%2F) 
     
-     - W3C CSS Validator resulted in no syntax errors in the file. [See here] (https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Felgas.github.io%2Fvisit-lezha%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+     - W3C CSS Validator resulted in no syntax errors in the file. [See here](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Felgas.github.io%2Fvisit-lezha%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
     * Testing User Stories from User Experience (UX) Section
         -The website delivers simple information in a clear setting. 
@@ -93,7 +93,7 @@ that wants to vitit Lezha in Albania.
 
 ## Credits
  ### Code
-  Bootstrap 4.4.1 (https://getbootstrap.com/) Library was used throughout the project mainly to make site responsive and appealing.
+  [Bootstrap 4.4.1](https://getbootstrap.com/) Library was used throughout the project mainly to make site responsive and appealing.
 
 ### Content
     Most of the content was written by the developer.
@@ -108,9 +108,6 @@ that wants to vitit Lezha in Albania.
 
 ## Acknowledgements
     My Mentor for continuous helpful feedback and support.
-
-    Tutor support at Code Institute for their support.
-
 
 
 
