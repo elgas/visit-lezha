@@ -3,40 +3,44 @@ Live projrct here : [Visit Lezha](https://elgas.github.io/visit-lezha)
 
 This is a website presenting a simple and effective guide for the main places, activities for a tourist that wants to vitit Lezha in Albania.
 
+![Responsive](responsive.png)
+
 ## User Experience (UX)
 
-*User stories
-    *First Time Visitor Goals
+### User stories
+
+    * First Time Visitor Goals
         a. As a first time visitor, the website should feel light and easy to grasp. It should give the right information quickly. 
         b. The website should be easily scrollable on the phone, and fun to navigate.
         c. It should convey the right information in a simple and engaging way.
     
-    *Returning Visitor Goals
+    * Returning Visitor Goals
         a. As a returning visitor, I might be looking for an idea on what to do in the city.
         b. Returning visitors, will want to get the free turist guide.
     
-    *Frequent User Goals
+    * Frequent User Goals
         a. Get updates for new activities or places to visit.
         b. Check for a new guide option.
 
-*Design
-    *Colour Scheme : Since the website contains a lot of pictures and a large video, everything else is white with contrasting black font colour.
+### Design
 
-    *Imagery: The large video is the main attraction for the website, since its enagaging and it will give a quick overview of what the city is about. And videos are the most used form for getting information. 
+    * Colour Scheme : Since the website contains a lot of pictures and a large video, everything else is white with contrasting black font colour.
+
+    * Imagery: The large video is the main attraction for the website, since its enagaging and it will give a quick overview of what the city is about. And videos are the most used form for getting information. 
     The rest of the website is constructed as small displays with short information in order to draw the user to get more information from the guide at the end.
 
-*Wireframes
-    *Mobile Wireframe - View here
+## Wireframes
+    Mobile Wireframe - View here
 
 ## Features
-    *Responsive on all device sizes
-    *Interactive elements
+    * Responsive on all device sizes
+    * Interactive elements
 
 ## Technologies Used
 
 ### Language Used
-    *HTML5
-    *CSS3
+    * HTML5
+    * CSS3
 
 ### Frameworks Used
     * [Bootstrap 4.4.1] (https://getbootstrap.com/docs/4.1/getting-started/introduction/) is used to help with the responsiveness and styling of the features.
