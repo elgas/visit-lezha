@@ -48,26 +48,29 @@ Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](bals
     * CSS3
 
 ### Frameworks Used
-    * [Bootstrap 4.4.1](https://getbootstrap.com) is
+    * [Bootstrap 4.4.1!](https://getbootstrap.com/) is
      used to help with the responsiveness and styling of the features.
-    * [Font Awesome](https://fontawesome.com) is used on the website 
-    to add icons for aesthetic 
-    and UX purposes.
-    * [Balsamiq](https://balsamiq.com) is used to create the wireframes 
+
+    * [Font Awesome!](https://fontawesome.com/) is used on the website 
+    to add icons for aesthetic and UX purposes.
+
+    * [Balsamiq!](https://balsamiq.com/) is used to create the wireframes 
     during the design process.
-    * [GitHub](https://github.com): GitHub is used to store the projects 
+
+    * [GitHub!](https://github.com/): GitHub is used to store the projects 
     code after being pushed from Gitpod.
-    * [Visual Studio Code](https://code.visualstudio.com) editor was used until the final upload on Github.
+
+    * [Visual Studio Code!](https://code.visualstudio.com) editor was used until the final upload on Github.
 
 ## Testing
 
     * Validator testing
      - The W3C HTML Validator test showed no errors, but one suggestion of using CSS instead of the <iframe> 
      element in HTML. 
-          [See here](https://validator.w3.org/nu/?doc=https%3A%2F%2Felgas.github.io%2Fvisit-lezha%2F) 
+          [See here!](https://validator.w3.org/nu/?doc=https%3A%2F%2Felgas.github.io%2Fvisit-lezha%2F) 
     
      - W3C CSS Validator resulted in no syntax errors in the file. 
-        [See here](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Felgas.github.io%2Fvisit-lezha%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+          [See here!](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Felgas.github.io%2Fvisit-lezha%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
     * Testing User Stories from User Experience (UX) Section
         -The website delivers simple information in a clear setting. 
@@ -103,9 +106,8 @@ Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](bals
     - Wait a few minutes and then you can click the link that Github 
     has created for hosting the website.
 
-    [Live link here:](https://elgas.github.io/visit-lezha)
+    [Link](https://elgas.github.io/visit-lezha)
     
-
 
 ## Credits
  ### Code
@@ -117,11 +119,14 @@ Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](bals
     Two features have been suorced from Wikipedia, and linked accordingly.
 
 ### Media
-    - Video source [YouTube](https://www.youtube.com/watch?v=O7abP6M0Nt4)
+    - Video source 
+            [YouTube](https://www.youtube.com/watch?v=O7abP6M0Nt4)
     - Image sources
-        a. Free source [Pexel.com](https://www.pexels.com)
-        b. Free source [Unsplash.com](https://unsplash.com)
-        b. [Shutterstock source](https://www.shutterstock.com)
+        a. Free source  
+                [Pexel.com](https://www.pexels.com/)
+        b. Free source  
+                [Unsplash.com](https://unsplash.com/)
+        b.  [Shutterstock source](https://www.shutterstock.com/)
 
 ## Acknowledgements
     My Mentor for continuous helpful feedback and support.
