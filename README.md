@@ -50,11 +50,14 @@ Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](bals
 ### Frameworks Used
     * [Bootstrap 4.4.1](https://getbootstrap.com) is
      used to help with the responsiveness and styling of the features.
-    * [Font Awesome](https://fontawesome.com) is used on the website to add icons for aesthetic 
+    * [Font Awesome](https://fontawesome.com) is used on the website 
+    to add icons for aesthetic 
     and UX purposes.
-    * [Balsamiq](https://balsamiq.com) is used to create the wireframes during the design process.
-    * [GitHub](https://github.com): GitHub is used to store the projects code after being pushed 
-    from Gitpod.
+    * [Balsamiq](https://balsamiq.com) is used to create the wireframes 
+    during the design process.
+    * [GitHub](https://github.com): GitHub is used to store the projects 
+    code after being pushed from Gitpod.
+    * [Visual Studio Code](https://code.visualstudio.com) editor was used until the final upload on Github.
 
 ## Testing
 
@@ -69,16 +72,24 @@ Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](bals
     * Testing User Stories from User Experience (UX) Section
         -The website delivers simple information in a clear setting. 
         -The video and images make it appealing and enjoyable.
-        -The user has the option to enter first and last name, email, select a language and get a free guide.
+        -The user has the option to enter first and last name, email, 
+        select a language and get a free guide.
 
     * Further Testing
-        - The website was tested on Google Chrome, Microsoft Edge and on these devices desktop, laptop, iPhone5, Huawei P20 Pro.
-        - Rigorous testing was done for all the internal and external links that the site contains.
-        - Friends and family members were asked to visit the site and give feedback on their experience.
+        - The website was tested on Google Chrome, Microsoft Edge and 
+        on these devices desktop, laptop, iPhone5, Huawei P20 Pro.
+        - Rigorous testing was done for all the internal and external 
+        links that the site contains.
+        - Friends and family members were asked to visit the site and 
+        give feedback on their experience.
         - Checked all alternative text for all the image element.
 
     * Fixed bugs
-        - Bootstrap was used in order to make the website responsive, but all the images that the website contains had to be fixed by using CSS media queries, for four breaking points. Before adding the necessary fixes, the images had different sizes while moving through the screen breakpoints.
+        - Bootstrap was used in order to make the website responsive, 
+        but all the images that the website contains had to be fixed 
+        by using CSS media queries, for four breaking points. Before 
+        adding the necessary fixes, the images had different sizes while 
+        moving through the screen breakpoints.
 
 ## Deployment
     The project was deployed to GitHub Pages using the following steps:
@@ -87,8 +98,10 @@ Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](bals
     - In the GitHub repository navigate to the Settings tab.
     - From the source section drop-down menu, select the Master Branch
     - Next select folder and click on the save button. 
-    - The page automatically refreshes with a message to indicate the successful deployment.
-    - Wait a few minutes and then you can click the link that Github has created for hosting the website.
+    - The page automatically refreshes with a message to indicate 
+    the successful deployment.
+    - Wait a few minutes and then you can click the link that Github 
+    has created for hosting the website.
 
     [Live link here:](https://elgas.github.io/visit-lezha/)
     
@@ -96,7 +109,8 @@ Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](bals
 
 ## Credits
  ### Code
-  [Bootstrap 4.4.1](https://getbootstrap.com/) Library was used throughout the project mainly to make site responsive and appealing.
+  [Bootstrap 4.4.1](https://getbootstrap.com/) Library was used throughout the 
+  project mainly to make site responsive and appealing.
 
 ### Content
     Most of the content was written by the developer.
