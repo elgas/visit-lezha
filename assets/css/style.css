@@ -19,6 +19,10 @@ a{
   color: rgb(113, 45, 153);
 }
 
+.card-title{
+    text-transform: capitalize;
+}
+
 /* h3 headings for each section for better readibility */
 h3{
     margin-top: 25px;

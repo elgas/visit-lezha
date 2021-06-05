@@ -98,6 +98,8 @@ Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](bals
         by using CSS media queries, for four breaking points. Before 
         adding the necessary fixes, the images had different sizes while 
         moving through the screen breakpoints.
+        - The collapsable menu was covering the content in small screen divices, 
+        fixed by deactivating it when the screen is smaller.
 
 ## Deployment
     The project was deployed to GitHub Pages using the following steps:
