@@ -121,9 +121,8 @@ Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](bals
 [YouTube](https://www.youtube.com/watch?v=O7abP6M0Nt4)
     - Image sources
     [Shutterstock source](https://www.shutterstock.com/)
-    - Free source  
-        [Pexel](https://www.pexels.com/)
-        [Unsplash](https://unsplash.com/)
+    - Free source [Pexel](https://www.pexels.com/)
+    - Free source [Unsplash](https://unsplash.com/)
         
 
 ## Acknowledgements
