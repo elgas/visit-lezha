@@ -16,7 +16,7 @@
 }
 
 a{
-  color: black;
+  color: rgb(113, 45, 153);
 }
 
 /* h3 headings for each section for better readibility */
@@ -28,9 +28,9 @@ h3{
 
 /* Footer */
 footer{
-  padding-top: 100px;
-  padding-left: 1%;
+  padding: 100px 5px 50px;
   font-weight: bolder;
+  font-size: large;
 }
 
 footer span {

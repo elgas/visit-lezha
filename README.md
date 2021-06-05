@@ -26,9 +26,10 @@ that wants to vitit Lezha in Albania.
     * Colour Scheme : Since the website contains a lot of pictures and a large video, everything else is
      white with contrasting black font colour.
 
-    * Imagery: The large video is the main attraction for the website, since its enagaging and it will 
-    give a quick overview of what the city is about. And videos are the most used form for getting information. 
-    The rest of the website is constructed as small displays with short information in order to draw 
+    * Imagery: The large video is the main attraction for the website, since 
+    its enagaging and it will give a quick overview of what the city is about. 
+    Videos are the most used form for getting information. The rest of the website 
+    is designed as small displays cards with short information in order to draw 
     the user to get more information from the guide at the end.
 
 ## Wireframes
@@ -37,8 +38,10 @@ Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](bals
 
 ## Features
     * Responsive on all device sizes 
-    * Collapsable navigation bar in order to make more space when the user is viewing the website from smaller screen devices.
-    * Sections that display activities, sights, and the food of the city presented with easy text and a memorable image.
+    * Collapsable navigation bar in order to make more space when the user is viewing 
+    the website from smaller screen devices.
+    * Sections that display activities, sights, and the food of the city presented with 
+    easy text and a memorable image.
     * The user can submit their information in a form in order to get a free tourist guide.
 
 ## Technologies Used
@@ -48,19 +51,19 @@ Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](bals
     * CSS3
 
 ### Frameworks Used
-[Bootstrap 4.4.1!](https://getbootstrap.com/) is
+[Bootstrap 4.4.1](https://getbootstrap.com/) is
      used to help with the responsiveness and styling of the features.
 
-[Font Awesome!](https://fontawesome.com/) is used on the website 
+[Font Awesome](https://fontawesome.com/) is used on the website 
     to add icons for aesthetic and UX purposes.
 
-[Balsamiq!](https://balsamiq.com/) is used to create the wireframes 
+[Balsamiq](https://balsamiq.com/) is used to create the wireframes 
     during the design process.
 
-[GitHub!](https://github.com/): GitHub is used to store the projects 
+[GitHub](https://github.com/): GitHub is used to store the projects 
     code after being pushed from Gitpod.
 
-[Visual Studio Code!](https://code.visualstudio.com) editor was used until the final upload on Github.
+[Visual Studio Code](https://code.visualstudio.com) editor was used until the final upload on Github.
 
 ## Testing
 
@@ -86,6 +89,8 @@ Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](bals
         - Friends and family members were asked to visit the site and 
         give feedback on their experience.
         - Checked all alternative text for all the image element.
+        - Tested the uploading speed (result 1.4 s)of the website 
+        since it is important for a good UX, and Google rankings.
 
     * Fixed bugs
         - Bootstrap was used in order to make the website responsive, 
@@ -114,15 +119,13 @@ Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](bals
 
 ### Content
     Most of the content was written by the developer.
-    Two features have been suorced from Wikipedia, and linked accordingly.
+    Two features have been suorced from Wikipedia, and is linked accordingly.
 
 ### Media
-    - Video source 
-[YouTube](https://www.youtube.com/watch?v=O7abP6M0Nt4)
-    - Image sources
-    [Shutterstock source](https://www.shutterstock.com/)
-    - Free source [Pexel](https://www.pexels.com/)
-    - Free source [Unsplash](https://unsplash.com/)
+- Image source for most images [Shutterstock source](https://www.shutterstock.com/)
+- Free image source [Pexel](https://www.pexels.com/)
+- Free image source [Unsplash](https://unsplash.com/)
+- Video source [YouTube](https://www.youtube.com/watch?v=O7abP6M0Nt4)
         
 
 ## Acknowledgements
