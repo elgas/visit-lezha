@@ -60,7 +60,7 @@ Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](bals
 [Balsamiq](https://balsamiq.com/) is used to create the wireframes 
     during the design process.
 
-[GitHub](https://github.com/): GitHub is used to store the projects 
+[GitHub](https://github.com/) GitHub is used to store the projects 
     code after being pushed from Gitpod.
 
 [Visual Studio Code](https://code.visualstudio.com) editor was used until the final upload on Github.
