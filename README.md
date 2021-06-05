@@ -103,7 +103,7 @@ Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](bals
     - Wait a few minutes and then you can click the link that Github 
     has created for hosting the website.
 
-    [Live link here:](https://elgas.github.io/visit-lezha/)
+    [Live link here:](https://elgas.github.io/visit-lezha)
     
 
 
