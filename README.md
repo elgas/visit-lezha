@@ -164,8 +164,8 @@ The project was deployed to GitHub Pages using the following steps:
 
 ### Media
 
-    - All the pictures used came from the Free image source [Unsplash](https://unsplash.com/)
-    - Video source [YouTube](https://www.youtube.com/watch?v=O7abP6M0Nt4)
+   - [Unsplash](https://unsplash.com/) for all the pictures used, as a free image source.
+   - [YouTube](https://www.youtube.com/watch?v=O7abP6M0Nt4) for the video.
         
 
 ## Acknowledgements
