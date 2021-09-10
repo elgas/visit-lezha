@@ -123,7 +123,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
           
          2. As a Frequent User, I want to get emailed any full giudes for free.
          
-            2. The form invites the user to fill in their information in order to get a free guide of the city. (Submit button not active for the present)
+            1. The form invites the user to fill in their information in order to get a free guide of the city. (Submit button not active for the present)
       
 
  ### Further Testing
