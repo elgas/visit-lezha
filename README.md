@@ -4,7 +4,7 @@ Live project here : [Visit Lezha](https://elgas.github.io/visit-lezha)
 This is a website presenting a simple and effective guide for the main places and activities for a tourist 
 that wants to vitit Lezha in Albania.
 
-![Responsive](responsive.png)
+![Responsive](responsiveDesignTest.jpg)
 
 ## User Experience (UX)
 
@@ -51,6 +51,7 @@ Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](bals
     * CSS3
 
 ### Frameworks Used
+
 [Bootstrap 4.4.1](https://getbootstrap.com/) is
      used to help with the responsiveness and styling of the features.
 
@@ -122,10 +123,8 @@ Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](bals
     Two features have been suorced from Wikipedia, and is linked accordingly.
 
 ### Media
-- Image source for most images [Shutterstock source](https://www.shutterstock.com/)
-- Free image source [Pexel](https://www.pexels.com/)
-- Free image source [Unsplash](https://unsplash.com/)
-- Video source [YouTube](https://www.youtube.com/watch?v=O7abP6M0Nt4)
+    - Free image source [Unsplash](https://unsplash.com/)
+    - Video source [YouTube](https://www.youtube.com/watch?v=O7abP6M0Nt4)
         
 
 ## Acknowledgements
