@@ -34,7 +34,7 @@
 
 * ### Wireframes
     
-      Used balsamiq wireframe for the initial design ideas. See here: ![Balsamiq](balsamiq.png)
+ Used balsamiq wireframe for the initial design ideas. ![Balsamiq](balsamiq.png)
 
 ## Features
 -  Responsive on all device sizes
@@ -56,7 +56,7 @@
 
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate the project and ensure no syntax errors in the project.
+The W3C Markup Validator and W3C CSS Validator Services were used to validate the project and ensure no syntax errors were present.
 
    - The W3C HTML Validator test showed no errors. - [See here](https://validator.w3.org/nu/?doc=https%3A%2F%2Felgas.github.io%2Fvisit-lezha%2F)
    - W3C CSS Validator resulted in no syntax errors in the file. - [See here](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Felgas.github.io%2Fvisitlezha%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
@@ -146,7 +146,7 @@ The project was deployed to GitHub Pages using the following steps:
 3. Scroll down the Settings page until you locate the "Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Branch : master".
 5. Click the "Save" button.
-6. The page will automatically refresh.
+6. The page will automatically refresh and your site is ready.
 7. Go back down to the Repository page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
  
 
